@@ -1,0 +1,1 @@
+scalafmtConfig := Some(file(".scalafmt"))
